@@ -1,0 +1,23 @@
+{
+    "name": "willianmano/kratos",
+    "description": "Simple ORM tool",
+    "version": "0.1",
+    "type": "library",
+    "time": "2014-06-24 19:11:23",
+    "homepage": "http://willianmano.net",
+    "license": "BSD Style",
+    "authors": [
+        {
+            "name": "Willian Mano",
+            "email": "willianmanoaraujo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kratos": "src/"
+        }
+    }
+}
